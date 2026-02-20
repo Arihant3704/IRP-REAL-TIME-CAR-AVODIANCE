@@ -64,3 +64,11 @@ Experimental validation on an indoor test track demonstrated:
 The following GIF shows the Q-Car in action, detecting lanes and avoiding obstacles:
 
 ![Demonstration of Lane Detection and Obstacle Avoidance](result_video.gif)
+
+### METHODOLOGY
+<img width="1536" height="1024" alt="11" src="https://github.com/user-attachments/assets/49d28647-08b7-4595-84fa-1550d6449740" />
+
+### LANE FOLLOWING OUTPUT
+<img width="1280" height="960" alt="22" src="https://github.com/user-attachments/assets/c0298251-e5f6-4b5c-b252-56e3589cc499" />
+
+
