@@ -58,3 +58,9 @@ Experimental validation on an indoor test track demonstrated:
 **Under the Guidance of:** Dr. Basawaraj
 **Institution:** KLE Technological University
 **Semester:** VII, 2024-2025
+
+## Demonstration
+
+The following GIF shows the Q-Car in action, detecting lanes and avoiding obstacles:
+
+![Demonstration of Lane Detection and Obstacle Avoidance](result_video.gif)
