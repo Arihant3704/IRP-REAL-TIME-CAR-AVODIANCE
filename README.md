@@ -1,4 +1,4 @@
-# IRP-REAL-TIME-CAR-AVODIANCE
+# IRP-REAL-TIME-CAR-AVODIANCE AND LANE-FOLLOWING
 
 ## Project Overview
 
@@ -44,6 +44,10 @@ Experimental validation on an indoor test track demonstrated:
 *   Accurate obstacle detection.
 *   Over 90% success rate in obstacle avoidance during indoor tests.
 *   Smooth and consistent avoidance behavior with minimal latency.
+
+
+
+
 
 ## Team
 
